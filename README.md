@@ -46,7 +46,7 @@ The project directory structure is as follows:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/iris-flower-classification.git
+git clone https://github.com/Keerthana82/Task-1-Iris-Flower-Classification-Bharat-intern.git
 ```
 
 2. Navigate to the project directory:
